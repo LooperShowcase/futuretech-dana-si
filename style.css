@@ -1,0 +1,42 @@
+body{ 
+ background-color: rgb(235, 234, 171);  
+}
+.nano{
+   background-color: rgb(240, 241, 178);
+  }
+  
+
+button
+{
+  background-color: rgba(0, 0, 0, 0.137)(237, 237, 237);
+  border: 17px;
+  box-shadow: 1px 2px 1pt 2px;
+}
+
+button:hover{
+background-color: rgb(210, 175, 248);
+color: rgb(169, 108, 27);
+
+}
+.cotainer{background-color: rgb(6, 5, 5);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 50%;
+border: 15px 8px;
+}
+body{ 
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+#webcam-container { background-color: rgb(145, 92, 92);
+font-style: initial;
+}
+
+#label-container{ background-color: rgb(29, 28, 25);
+color: rgb(169, 210, 210);
+}
+div { background-color: rgb(225, 187, 255);}
+h2{ background-color: blueviolet;}
